@@ -10,3 +10,6 @@
 [submodule "termcolor"]
 	path = termcolor
 	url = https://github.com/ikalnytskyi/termcolor.git
+[submodule "PhysX"]
+	path = PhysX
+	url = https://github.com/NVIDIAGameWorks/PhysX.git
