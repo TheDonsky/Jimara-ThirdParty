@@ -13,3 +13,6 @@
 [submodule "PhysX"]
 	path = PhysX
 	url = https://github.com/NVIDIAGameWorks/PhysX.git
+[submodule "SPIRV-Reflect"]
+	path = SPIRV-Reflect
+	url = https://github.com/KhronosGroup/SPIRV-Reflect.git
