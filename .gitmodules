@@ -11,7 +11,7 @@
 	path = termcolor
 	url = https://github.com/ikalnytskyi/termcolor.git
 [submodule "PhysX"]
-	path = PhysX
+	path = NVIDIA/PhysX/PhysX
 	url = https://github.com/NVIDIAGameWorks/PhysX.git
 	ignore = dirty
 [submodule "SPIRV-Reflect"]
