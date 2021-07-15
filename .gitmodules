@@ -20,3 +20,6 @@
 [submodule "OpenAL/openal-soft"]
 	path = OpenAL/openal-soft
 	url = https://github.com/kcat/openal-soft.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
