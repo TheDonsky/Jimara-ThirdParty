@@ -29,3 +29,6 @@
 [submodule "Font-Awesome/IconFontCppHeaders"]
 	path = Font-Awesome/IconFontCppHeaders
 	url = https://github.com/juliettef/IconFontCppHeaders.git
+[submodule "portable-file-dialogs"]
+	path = portable-file-dialogs
+	url = https://github.com/samhocevar/portable-file-dialogs.git
