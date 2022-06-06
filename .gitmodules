@@ -32,3 +32,6 @@
 [submodule "portable-file-dialogs"]
 	path = portable-file-dialogs
 	url = https://github.com/samhocevar/portable-file-dialogs.git
+[submodule "Clipboard/clip"]
+	path = Clipboard/clip
+	url = https://github.com/dacap/clip.git
