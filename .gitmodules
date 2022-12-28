@@ -35,3 +35,6 @@
 [submodule "Clipboard/clip"]
 	path = Clipboard/clip
 	url = https://github.com/dacap/clip.git
+[submodule "implot"]
+	path = implot
+	url = https://github.com/epezent/implot.git
