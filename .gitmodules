@@ -16,7 +16,7 @@
 	ignore = dirty
 [submodule "SPIRV-Reflect"]
 	path = SPIRV-Reflect
-	url = https://github.com/KhronosGroup/SPIRV-Reflect.git
+	url = https://github.com/TheDonsky/SPIRV-Reflect.git
 [submodule "OpenAL/openal-soft"]
 	path = OpenAL/openal-soft
 	url = https://github.com/kcat/openal-soft.git
